@@ -1,2 +1,2 @@
-# Techdegree project 1
- First TD project (profile)
+# Techdegree Project 1
+ First Techdegree profile project
